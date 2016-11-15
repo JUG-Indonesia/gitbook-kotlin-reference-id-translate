@@ -2,8 +2,8 @@
 
 Ini adalah versi terjemahan dari referensi Kotlin di http://kotlinlang.org/docs/reference/ yang merupakan referensi lengkap untuk bahasa Kotlin dan pustaka dasar.
 
-## Dimana tempat memulai
+## Dimulai dari mana
 
-Referensi ini dibuat untuk memudahkan kita belajar Kotlin dalam hitungan jam. Diawali dengan [*syntax* dasar](syntax-dasar.md), 
+Referensi ini dibuat untuk memudahkan kita belajar Kotlin dalam hitungan jam. Diawali dengan [*syntax* dasar](syntax-dasar.md), kemudian melanjutkan ke topik yang lebih tinggi. Pada saat membaca, kita dapat mencoba contoh-contoh yang ada dengan [IDE online](try.kotlang.org).
 
 
