@@ -1,6 +1,6 @@
 # Summary
 
 * [Memulai](README.md)
-   * *Syntax* Dasar
+   * Syntax Dasar
 * [First Chapter](chapter1.md)
 
