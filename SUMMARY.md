@@ -2,5 +2,4 @@
 
 * [Memulai](README.md)
    * [Syntax Dasar](syntax-dasar.md)
-* [First Chapter](chapter1.md)
 
