@@ -4,7 +4,7 @@ Ini adalah versi terjemahan dari referensi Kotlin di [http:\/\/kotlinlang.org\/d
 
 ### Dimulai dari mana
 
-Referensi ini dibuat untuk memudahkan kita belajar Kotlin dalam hitungan jam. Diawali dengan [_syntax_](syntax-dasar.md)[ dasar](syntax-dasar.md), kemudian melanjutkan ke topik yang lebih tinggi. Pada saat membaca, kita dapat mencoba contoh-contoh yang ada dengan [IDE online](http://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt).
+Referensi ini dibuat untuk memudahkan kita belajar Kotlin dalam hitungan jam. Diawali dengan _[syntax](syntax-dasar.md)_[ dasar](syntax-dasar.md), kemudian melanjutkan ke topik yang lebih tinggi. Pada saat membaca, kita dapat mencoba contoh-contoh yang ada dengan [IDE online](http://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt).
 
 Jika kita telah mengerti apa itu Kotlin, cobalah menyelesaikan [Kotlin Koans](http://kotlinlang.org/docs/tutorials/koans.html) - latihan pemrograman interaktif. Jika kita tidak yakin bagaimana menyelesaikan Koan, atau ingin mencari solusi yang lebih elegan, silahkan kunjungi [Kotlin Idioms](http://kotlinlang.org/docs/reference/idioms.html).
 
@@ -24,5 +24,5 @@ Gunakan kode kupon '39jemerov' untuk mendapatkan diskon kode 39% pada buku ini.
 
 ### Kotlin untuk _Developer_ Android
 
-Kotlin untuk \_Developer\_ Android adalah bukunya Antonio Leiva, yang menunjukan bahwa Kotlin dapat digunakan untuk membuat aplikasi Android dari awal.
+Kotlin untuk _Developer_ Android adalah bukunya Antonio Leiva, yang menunjukan bahwa Kotlin dapat digunakan untuk membuat aplikasi Android dari awal.
 
